@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/Shortform/__init__.py
+src/Shortform.egg-info/PKG-INFO
+src/Shortform.egg-info/SOURCES.txt
+src/Shortform.egg-info/dependency_links.txt
+src/Shortform.egg-info/top_level.txt
+src/Shortform/components/__init__.py
+src/Shortform/config/__init__.py
+src/Shortform/config/configuration.py
+src/Shortform/constants/__init__.py
+src/Shortform/entity/__init__.py
+src/Shortform/logging/__init__.py
+src/Shortform/pipeline/__init__.py
+src/Shortform/utils/__init__.py
+src/Shortform/utils/common.py

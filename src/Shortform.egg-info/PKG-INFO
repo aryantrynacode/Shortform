@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: Shortform
+Version: 0.0.0
+Summary: A shortform text generation NLP application
+Home-page: https://github.com/aryantrynacode/Shortform
+Author: aryantrynacode
+Author-email: xryan.shxrma@gmail.com
+Project-URL: Bug Tracker, https://github.com/aryantrynacode/Shortform/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Shortform
+A text summarizer END-TO-END NLP project with deployment 
